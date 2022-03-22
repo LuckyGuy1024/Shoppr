@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Shoprrr
+  Shopr
 </h1>
 <p align="center">New Arrivals | Enjoy This Summer Trends | On Eligible Items in order of $100 or more</p>
 <br /><br />
